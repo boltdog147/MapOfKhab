@@ -146,7 +146,7 @@
             <p>Климат умеренный муссонный, с холодной зимой и теплым влажным летом. Средняя температура января: -22°C, июля: +21°C.</p>
         </div>
         
-        <div class="photo-space">Место для фотографии Хабаровского края</div>
+        <div class="photo-space">https://newizv.ru/attachments/2cf637007cebc3eadc88b0ae1fdbe869f1769091/store/crop/0/156/3688/2074/3688/2074/0/dbbf46d138601ec6e9b2b7e3071a48612647dcb6b0a73eb61f3345d99acc/1699819387603.webp</div>
         <div class="photo-space">Место для дополнительной фотографии</div>
         <div class="photo-space">Место для ещё одной фотографии</div>
         
